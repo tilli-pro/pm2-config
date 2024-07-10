@@ -1,7 +1,8 @@
 {
   "name": "pm2-config",
-  "version": "0.0.7",
-  "description": "Autocomplete and documentation for your JSON, YAML and Javascript pm2 configs 🚀",
+  "version": "0.1.0",
+  "description": "Autocomplete and documentation for your JSON, YAML and Javascript pm2 configs 🚀 (now with JSDoc support)",
+  "types": "pm2-config.d.ts",
   "author": "Edosa Kelvin <edosakelvin@gmail.com>",
   "keywords": [
     "pm2",
